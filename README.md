@@ -41,7 +41,7 @@ Multiple regression models were compared to find the best performer based on pre
 ## 📋 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/DawoodAnwar/PDM-PLAN.git
    ```
 2. Navigate to the project directory.
 3. Install required packages:
@@ -62,5 +62,5 @@ xgboost
 ```
 
 ## ✨ Acknowledgments
-- Dataset: [Your Source] (if public, otherwise remove this)
-- Inspiration for model selection and pipeline design from best practices in machine learning.
+- Dataset: https://www.kaggle.com/datasets/arnavkulkarni/housing-prices-in-london
+
